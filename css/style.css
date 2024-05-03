@@ -1,13 +1,19 @@
 *{
     box-sizing: border-box;
     background-color: #041122;
+    color: white;
 }
 
 .back-claro{
-    background-color: #c8e98e;
-    text-align: center;
+    background-color: #e6f99d;
+    text-align: justify;
+    padding: 25px;
 }
 
 .back-oscuro{
     background-color: #259073;
+}
+
+label{
+    margin: 10px;
 }
