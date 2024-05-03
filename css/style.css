@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    background-color: #041122;
+}
+
+.back-claro{
+    background-color: #c8e98e;
+    text-align: center;
+}
+
+.back-oscuro{
+    background-color: #259073;
+}
