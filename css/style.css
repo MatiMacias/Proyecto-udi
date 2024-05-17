@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Poetsen+One&display=swap');
 *{
     box-sizing: border-box;
     background-color: #041122;
@@ -5,9 +6,8 @@
 }
 
 .back-claro{
-    background-color: #e6f99d;
     text-align: justify;
-    padding: 25px;
+    padding: 10px;
 }
 
 .back-oscuro{
@@ -17,3 +17,23 @@
 label{
     margin: 10px;
 }
+
+nav{
+    float: right;
+    margin: 5px;
+}
+
+button{
+    background-color: rgb(255, 140, 0);
+    border-radius: 40px;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+
